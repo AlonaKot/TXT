@@ -1,0 +1,4 @@
+Favorite movie: "Indiana Jones"
+Favorite serias: "Scrubs"
+Favorite food: Burgers
+Country you would like to visit: Switzerland
