@@ -1,1 +1,25 @@
-
+Summary: Displaying a characteristic associated with a deleted group
+Priority: Major
+Severity: Midle
+Status: To do
+Environment: Desktop, Windows10 x64, Chrome97
+Descriprion:
+  Precondition:
+      1. Authorization in your personal account,
+      2. Switch the mode to store management (store_url/admin/home),
+      3. In the sidebar, expand the "Catalog" list,
+      4. The submenu "Characteristics" is open",
+      5. Characteristics "Test", "Test 1", "Test 2" are included in the group of characteristics "Overall dimensions",
+      6. The subgroup "Groups of characteristics" is opened
+   Steps to Reproduce:
+      1. Click on the kebab menu next to the group "Dimensions",
+      2. Select the "Delete" menu in the kebab
+   Actual Result:
+      1. Group deleted,
+      2. When switching to the "Characteristics" tab, the characteristics "Test", "Test 1", "Test 2' are displayed with binding to the deleted group
+   Expected Result:
+      1. Group deleted,
+      2. When switching to the "Characteristics" tab, the characteristics "Test", "Test 1", "Test 2" are displayed without binding to the remote group
+ Attachment: https://drive.google.com/file/d/1KAg5XKZQIQC6zYaOxrDbs2ng1LBuOxcz/view?usp=sharing
+ Assignee: -
+ Reporter: Alona Kot
